@@ -8,3 +8,7 @@
 - CSS
 - Bootstrap
 - Javascript
+
+## OWNER OF APPLICATION/WEBSITE:
+
+- Matija Marić
