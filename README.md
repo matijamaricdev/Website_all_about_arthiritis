@@ -1,10 +1,10 @@
 ## TITLE : 
 
-#All About Arthritis website
+- All About Arthritis website
 
 ## TECHNOLOGIES USED:
 
-#HTML
-#CSS
-#Bootstrap
-#Javascript
+- HTML
+- CSS
+- Bootstrap
+- Javascript
